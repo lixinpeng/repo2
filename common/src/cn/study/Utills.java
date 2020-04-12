@@ -5,7 +5,10 @@ package cn.study;
  */
 public class Utills {
     public static void main(String[] args) {
-        System.out.println("测试四Asia");
+        System.out.println("dsndnaskndaskdaks");
+        System.out.println("dsndnaskndaskdaks");
+        System.out.println("dsndnaskndaskdaks");
+        System.out.println("dsndnaskndaskdaks");
+        System.out.println("dsndnaskndaskdaks");
     }
-
 }
